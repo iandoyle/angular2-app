@@ -10,7 +10,7 @@ export let RECIPES: Recipe[] = [
             new Ingredient('Fish', 2),
             new Ingredient('Fries', 1)
         ]
-        ),
+    ),
     new Recipe(
         'Burger & Fries',
         'Classic Lunch',
